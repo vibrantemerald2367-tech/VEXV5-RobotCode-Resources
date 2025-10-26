@@ -30,11 +30,15 @@ The autonomous program performs a complex sequence including:
 
 ## 📁 Program Structure
 
-### Autonomous Mode
+### Autonomous Mode: 
 - **Initialization**: Sets up motors and pneumatics
 - **Movement Sequence**: Pre-programmed path for competition
 - **Scoring Actions**: Ring manipulation and delivery
 - **Precision Control**: Timed waits and velocity adjustments
+
+- `20250103DriverOnly.v5blocks` - Driver control only version
+- `20250423AutoVer1.v5blocks` - First autonomous routine
+- `20250424Auto+DriverFinal.v5blocks` - Combined autonomous and driver control (final version)
 
 ### Driver Control Mode
 - **Controller Mapping**: 
