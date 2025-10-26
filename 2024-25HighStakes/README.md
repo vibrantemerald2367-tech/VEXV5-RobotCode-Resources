@@ -11,6 +11,7 @@ This program controls a VEX robot with the following components:
 - **Ring Mechanism**: Motor group "GetRing" (Ports 11, 12) 
 - **Digital Output**: Pneumatic/solenoid control "DigitalOutF" (Port 6)
 - **Controller**: Primary controller for driver control
+(you can change these port assignments according to actual needs)
 
 ## 🎮 Control Features
 
@@ -27,30 +28,11 @@ The autonomous program performs a complex sequence including:
 - **Pneumatic toggle** with Up/Down buttons
 - **Velocity control** based on position of joystick input
 
-## 🚀 Quick Start
-
-### Prerequisites
-- VEX V5 Robot Brain
-- VEXcode V5 software
-- Compatible VEX robotics hardware (you will have to design and build this yourself as I am not sharing my design ideas here)
-
-### Installation
-1. Download this project file
-2. Open in VEXcode V5
-3. Configure hardware ports to match your robot
-4. Upload to VEX Brain
-
-### Hardware Setup
-Ensure your robot is wired according to these port assignments (or you can change them according to actual needs):
-Drivetrain: Ports 20, 14, 3, 19
-GetRing Motors: Ports 11, 12
-Digital Output: Port 6
-
 ## 📁 Program Structure
 
 ### Autonomous Mode
 - **Initialization**: Sets up motors and pneumatics
-- **Movement Sequence**: Pre-programmed path for competition (please note that values may vary depending on individual motors, use this for reference only)
+- **Movement Sequence**: Pre-programmed path for competition
 - **Scoring Actions**: Ring manipulation and delivery
 - **Precision Control**: Timed waits and velocity adjustments
 
@@ -75,39 +57,13 @@ Digital Output: Port 6
 
 ### Autonomous Strategy
 The autonomous routine is designed for:
-- Consistent scoring in the 15-second period
+- Consistent scoring in the 15-second period ONLY
 - Reliable ring collection and placement
 - Field navigation with precise turning
 
-### Driver Assistance
+### Driver Control
 - Smooth acceleration and deceleration
 - Intuitive control layout
 - Reliable mechanism operation
-
-## 📄 License
-
-Copyright (C) 2025 vibrantemerald2367-tech
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program. If not, see <https://www.gnu.org/licenses/>.
-
-## 📧 Contact
-
-**Developer**: vibrantemerald2367-tech  
-**Email**: vibrantemerald.2367@gmail.com
-
----
-
-*Developed for VEX Robotics Competition using VEXcode Pro Blocks*
 
 *This README file was generated with AI and edited afterwards, please report any errors if found. Thank you for your cooperation*
