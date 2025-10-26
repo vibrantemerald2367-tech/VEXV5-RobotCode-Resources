@@ -51,7 +51,7 @@ This repository contains VEX robotics competition code for both autonomous and d
 - Compatible VEX materials (you will have to build your own becuase I am not sharing my designs here)
 
 ### Setup
-1. Download this repository
+1. Download the '.v5blocks' files
 2. Open projects in VEXcode V5
 3. Configure robot-specific settings in `robot_config.h`
 4. Upload to VEX brain and test
