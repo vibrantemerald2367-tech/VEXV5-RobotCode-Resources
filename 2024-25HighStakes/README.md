@@ -28,7 +28,7 @@ The autonomous program performs a complex sequence including:
 - **Tank-style driving** with joystick control (up-down and left-right)
 - **Ring mechanism control** with R1/R2 buttons
 - **Pneumatic toggle** with Up/Down buttons
-- **Velocity control** based on joystick input
+- **Velocity control** based on position of joystick input
 
 ## 🚀 Quick Start
 
