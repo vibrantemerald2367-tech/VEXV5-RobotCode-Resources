@@ -1,5 +1,8 @@
 # VEX Robotics V5 Programs
 
+![VEX Robotics](https://img.shields.io/badge/VEX-V5-red?style=for-the-badge&logo=robot)
+![License](https://img.shields.io/badge/License-GPL%203.0-green?style=for-the-badge)
+
 This repository contains VEX robotics competition code for both autonomous and driver control periods. These programs were developed for various VEX competition seasons and showcase different robotic functionalities and strategies.
 
 ## 🤖 Autonomous Programs (please note that individual number values may vary based on individual motor inaccuracies, use this as reference only)
