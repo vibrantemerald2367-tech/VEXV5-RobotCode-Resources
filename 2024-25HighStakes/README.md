@@ -1,9 +1,6 @@
 # VEX V5 Robotics Program for 2024-25 High Stakes
 
-![VEX Robotics](https://img.shields.io/badge/VEX-V5-red?style=for-the-badge&logo=robot)
-![License](https://img.shields.io/badge/License-GPL%203.0-green?style=for-the-badge)
-
-Autonomous and driver control programs for 2024-25 High Stakes VEX Robotics V5 competition. This repository contains code for robot control using VEX V5 hardware.
+Autonomous and driver control programs for 2024-25 High Stakes VEX Robotics V5 competition.
 
 ## 🤖 Robot Overview
 
