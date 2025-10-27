@@ -61,7 +61,7 @@ The autonomous program performs a complex sequence including:
 
 ### Autonomous Strategy
 The autonomous routine is designed for:
-- Consistent scoring in the 15-second period ONLY
+- Consistent scoring in the 15-second period Alliance Autonomous ONLY
 - Reliable ring collection and placement
 - Field navigation with precise turning
 
