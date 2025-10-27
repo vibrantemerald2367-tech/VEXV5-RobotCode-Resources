@@ -94,6 +94,7 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## 📧 Contact
 
 **Developer**: vibrantemerald2367-tech
+
 **Email**: vibrantemerald.2367@gmail.com
 
 ---
