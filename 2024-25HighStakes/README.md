@@ -36,16 +36,16 @@ The autonomous program performs a complex sequence including:
 - **Scoring Actions**: Ring manipulation and delivery
 - **Precision Control**: Timed waits and velocity adjustments
 
-- `20250103DriverOnly.v5blocks` - Driver control only version
-- `20250423AutoVer1.v5blocks` - First autonomous routine
-- `20250424Auto+DriverFinal.v5blocks` - Combined autonomous and driver control (final version)
-
 ### Driver Control Mode
 - **Controller Mapping**: 
   - Left/Right sticks: Tank drive
   - R1/R2: Ring mechanism control
   - Up/Down: Pneumatic output control
 - **Real-time Control**: Responsive joystick input
+
+- `20250103DriverOnly.v5blocks` - Driver control only version
+- `20250423AutoVer1.v5blocks` - First autonomous routine
+- `20250424Auto+DriverFinal.v5blocks` - Combined autonomous and driver control (final version)
 
 ## ⚙️ Configuration
 
@@ -70,4 +70,4 @@ The autonomous routine is designed for:
 - Intuitive control layout
 - Reliable mechanism operation
 
-*This README file was generated with AI and edited afterwards, please report any errors if found. Thank you for your cooperation*
+*This README file was generated with AI and edited afterwards, please report any errors if found.*
