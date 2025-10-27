@@ -1,6 +1,6 @@
 # VEX V5 Robotics Program for 2024-25 High Stakes
 
-Autonomous and driver control programs for 2024-25 High Stakes VEX Robotics V5 competition.
+Autonomous and driver control programs for 2024-25 Season High Stakes VEX Robotics V5 competition.
 
 ## 🤖 Robot Overview
 
