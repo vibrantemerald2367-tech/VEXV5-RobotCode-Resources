@@ -56,6 +56,8 @@ This repository contains competition-ready autonomous and driver control program
 
 ## 🎮 Autonomous Routines
 
+**Please note that the field setup is symmetrical, so although only Red Alliance code is provided here, the Blue Alliance code should be the same, with a few number changes due to slight errors on field setup**
+
 ### Right4Long — 4 scored in Long Goal + Push
 RearRoller backspin (200°) — preload positioning
 
