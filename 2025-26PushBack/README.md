@@ -217,7 +217,7 @@ To adapt these programs for your robot:
 
 ## 📚 References
 
-- [V5RC Push Back Game Manual]([https://thatonewebsite.org/Resources/Photos/HighStakes-1.0.pdf](https://content.vexrobotics.com/docs/25-26/v5rc-push-back/docs/Push-Back-4.0.pdf))
+- [V5RC Push Back Game Manual](https://content.vexrobotics.com/docs/25-26/v5rc-push-back/docs/Push-Back-4.0.pdf)
 - VEX V5 Robotics Competition official rules
 
 ---
